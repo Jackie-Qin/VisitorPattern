@@ -5,8 +5,6 @@
 
 ## Iterator Class
 
-You've been provided with four files which contain declarations and definitions for the following five iterator classes:
-
 * Iterator: this is the base class for defining the interface for all the other iterator classes
 * NullIterator: this iterator is created by expression tree classes which have no children to iterate over such as the operands
 * BinaryIterator: this iterator is created by expression tree classes with two children, such as operators, and returns one of the children per iteration
